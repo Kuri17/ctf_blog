@@ -1,15 +1,15 @@
 ---
-title : 'Polkctf'
+title : '37C3 Potluck CTF'
 date : 2024-01-18T04:02:07+09:00
 draft : true
 tags : ["crypto"]
-categories : ["ctf"]
+summary: "2023年最後のctf"
+categories : ["ctf","crypt"]
 math: true
 ---
-# 37C3 Potluck CTF
-
 2023/12/29に開催されたCTFのwriteup.
 ## lima beans with lemon and lime(184pt)
+
 
 ```python:final.py
 #!/usr/bin/env python3

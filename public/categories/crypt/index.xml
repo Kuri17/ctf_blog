@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Crypt on -</title>
+    <link>http://localhost:1313/ctf_blog/categories/crypt/</link>
+    <description>Recent content in Crypt on -</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jan 2024 04:02:07 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/ctf_blog/categories/crypt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>37C3 Potluck CTF</title>
+      <link>http://localhost:1313/ctf_blog/posts/potluck/</link>
+      <pubDate>Thu, 18 Jan 2024 04:02:07 +0900</pubDate>
+      <guid>http://localhost:1313/ctf_blog/posts/potluck/</guid>
+      <description>2023年最後のctf</description>
+    </item>
+  </channel>
+</rss>
