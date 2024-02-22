@@ -1,4 +1,4 @@
-baseURL: "https://kuri17.github.io/kuri_blog/"
+baseURL: "https://kuri17.github.io/ctf_blog/"
 title: Kuri
 paginate: 5
 theme: PaperMod
